@@ -1,0 +1,6 @@
+name: RPGAdventurePlugin
+
+main: raalekh.rpgjourneyplugin.RPGAdventurePlugin
+
+version: 1.0
+

@@ -1,0 +1,43 @@
+name: RPGAdventurePlugin
+
+main: raalekh.rpgjourneyplugin.RPGAdventurePlugin
+
+version: 1.0
+
+commands:  
+
+    gettext:
+    
+        description: your description here
+        
+        usage: /gettext
+        
+    vsummon:
+    
+        description: summons a villager on top of your
+        
+        usage: /vsummon
+        
+    phase:
+    
+        description: test teleports you to survival
+        
+        usage: /phase
+        
+    clearspawns:
+    
+        description: clears spawn lists for testing
+        
+        usage: /clearspawns
+        
+    vsummonnew:
+    
+        description: test command for nms
+        
+        usage: /vsummonnew
+    
+    testclass: 
+    
+        description: choose class
+        
+        usage: /testclass
